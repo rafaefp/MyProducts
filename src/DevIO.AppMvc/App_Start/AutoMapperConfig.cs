@@ -20,7 +20,7 @@ namespace DevIO.AppMvc.App_Start
             {
                 foreach (var profile in profiles)
                 {
-                    cfg.AddProfile(Activator.CreateInstance(profile) as Profile;
+                    cfg.AddProfile(Activator.CreateInstance(profile) as Profile);
                 }
             });
         }
