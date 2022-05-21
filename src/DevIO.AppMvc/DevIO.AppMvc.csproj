@@ -283,6 +283,7 @@
     <Content Include="Views\Fornecedores\_DetalhesEndereco.cshtml" />
     <Content Include="Views\Fornecedores\_AtualizarEndereco.cshtml" />
     <Content Include="Views\Produtos\_ListaProdutos.cshtml" />
+    <Content Include="Views\Shared\_ErrorSummary.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
